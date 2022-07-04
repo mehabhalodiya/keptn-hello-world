@@ -8,7 +8,6 @@ spec:
       sequences:
       - name: "delivery"
         tasks: 
-        - name: "triggered"
         - name: "test"
         - name: "promote"
     - name: "uat"
